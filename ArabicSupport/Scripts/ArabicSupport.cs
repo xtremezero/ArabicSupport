@@ -166,7 +166,7 @@ internal enum IsolatedArabicLetters
 	AlefHamza = 0xFE83,
 	WawHamza = 0xFE85,
 	AlefMaksoor = 0xFE87,
-	AlefMaksora = 0xFBFC,
+	AlefMaksora = 0xFEEF,
 	HamzaNabera = 0xFE89,
 	Ba = 0xFE8F,
 	Ta = 0xFE95,
