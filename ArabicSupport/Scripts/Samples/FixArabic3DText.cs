@@ -12,6 +12,11 @@ public class FixArabic3DText : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
+        UpdateText();
+        
+    }
+
+    public void UpdateText(){
         TextMesh textMesh = gameObject.GetComponent<TextMesh>();
         TextMeshPro textMeshPro = gameObject.GetComponent<TextMeshPro>();
         TextMeshProUGUI textMeshProUGUI = gameObject.GetComponent<TextMeshProUGUI>();
